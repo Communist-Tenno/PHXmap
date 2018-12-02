@@ -1,0 +1,25 @@
+.jumbotron-full {
+  height: 100vh;
+}
+
+.jumbotron-nowhitespace {
+  padding-bottom: 1px;
+}
+
+.jumbotron-nopaddingtop {
+  padding-top: 1rem;
+}
+
+.jumbotron-noborder {
+  border-radius: 0px;
+}
+
+.nav-nospace {
+  margin-bottom: 0px;
+}
+.image-small {
+  width: 1.5rem;
+}
+
+dt,dd { display: inline; }
+dl { clear:both; }
